@@ -12,3 +12,8 @@
 <!--Applied  Example to search in a specific site-->
 
 {searchTerms} path:https://YOURSITE.sharepoint.com/sites/YOURSUBSITE/
+
+
+
+<!--Warning-->
+<!--Remember that would be necessary to set your sharepoint results pages snippet to point to the recently created query, for that you would have to apply your query sintaxa as a new search source (search scopes) and after it to configure the snippet clicking on update, after that you can copy paste your snippet-->
