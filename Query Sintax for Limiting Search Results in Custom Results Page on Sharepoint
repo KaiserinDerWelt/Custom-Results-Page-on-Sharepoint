@@ -1,0 +1,14 @@
+<!--Here you can see the example od different query requests to sort the results on a custom search pages in sharepoint online 2010, 2013-->
+<!--Just copy paste the link you need to use to sort and filter the results to a specific page right after path: -->
+
+<!--Basic Sintax-->
+
+{searchTerms} path:URL
+
+<!-- Applied Example for a page or library: -->
+
+{searchTerms} path:https://SharepointMainSite.sharepoint.com/:f:/r/sites/SharepointSubsite/Page or library where you want to search
+
+<!--Applied  Example to search in a specific site-->
+
+{searchTerms} path:https://YOURSITE.sharepoint.com/sites/YOURSUBSITE/
