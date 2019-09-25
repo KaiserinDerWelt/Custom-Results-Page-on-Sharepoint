@@ -3,7 +3,8 @@
 <!--It consist of very simple interface that includes a header on the top, OOTB webparts for search But with highly develop programming of query sintax to find the files-->
 <!--Here we go, the html code in the body was made for me, the rest belongs to SharePoint system and WebParts-->
 <!--The html is responsive by using Bootstrap CDN, but since the OOTB web parts are not responsive, I "played" with the size of the components to make it fit in most of the portable devices, you can do that too-->
-<!--Check the example on this link:  -->
+<!--Check the example on this link: https://github.com/KaiserinDerWelt/Custom-Results-Page-on-Sharepoint/blob/master/SearchResultsFront.png  -->
+
 <?xml version="1.0" encoding="utf-8"?><!--SPG:
 
 Este archivo HTML se ha asociado a un diseño de página de SharePoint (archivo .aspx) del mismo nombre. Mientras los archivos estén asociados, no podrá editar el archivo .aspx y las operaciones de cambio de nombre, movimiento o eliminación serán recíprocas.
