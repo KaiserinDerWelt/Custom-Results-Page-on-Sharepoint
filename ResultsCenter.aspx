@@ -69,7 +69,7 @@ gnv.sharepoint.com/sites/ToolBox/_layouts/15/ComponentHome.aspx?Url=https%3A%2F%
 <mso:PublishingHidden msdt:dt="string">0</mso:PublishingHidden>
 </mso:CustomDocumentProperties>
 </xml><![endif]-->
-        <title>| enco GNV | </title>
+        <title>| YOUR TITLE| </title>
     </head>
     <body>
         <!--MS:<asp:ContentPlaceHolder ID="PlaceHolderPageTitleInTitleArea" runat="server">-->
